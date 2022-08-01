@@ -1,4 +1,7 @@
 # FRT_UPDATED_SUBMISSION
+
+#Azure Static Web App Link:https://ambitious-sea-0ef8a7b10.1.azurestaticapps.net
+
 This is a project created for Future Ready Talent
 
 Project Description
